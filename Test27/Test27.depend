@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1701687793 source:d:\c\test27\main.cpp
+	<iostream>
+	"Sally.h"
+
+1701687264 d:\c\test27\sally.h
+
+1701687302 source:d:\c\test27\sally.cpp
+	"Sally.h"
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701698337 source:d:\c\test28\main.cpp
+	<iostream>
+	"Sally.h"
+
+1701698185 d:\c\test28\sally.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701674951 source:d:\c\test25\demoinnit.cpp
+	"DemoInnit.h"
+	<iostream>
+
+1701674951 d:\c\test25\demoinnit.h
+
