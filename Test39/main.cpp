@@ -16,7 +16,7 @@ int main()
 
     float result = ((num2 * num5) + (num4 * num6));
 
-     cout<<fixed;
+    cout<<fixed;
 
     cout << setprecision(2) << "VALOR A PAGAR: " << "R$ " << result << endl;;
 
